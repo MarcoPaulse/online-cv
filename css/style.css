@@ -1,0 +1,37 @@
+body {
+    background:linear-gradient(rgba(0, 0, 0, 0.856), rgba(208, 255, 0, 0.719)), url(../images/O0TX0lA.jpg);
+    /* padding: 2rem 3rem;
+    margin: 100px; */
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 100%;
+}
+
+.navbar {
+    background: linear-gradient(rgba(128, 0, 128, 0.856); rgba(255, 255, 0, 0.719));
+    padding: 10px 20px; 
+    word-spacing: 3rem; 
+    text-align: center;
+    border-radius: 10px;
+    margin: 0 280px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 5px 5px 5px rgba(255, 255, 0, 0.719);
+
+}
